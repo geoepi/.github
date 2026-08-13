@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="geoepi_header.png" alt="GeoEpi header" width="100%">
+</p>
+
+<br>
+
 # GeoEpi
 
 **Geographical Epidemiology Research Group**
