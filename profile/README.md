@@ -68,5 +68,3 @@ repositories.
 Visit the **[GeoEpi Research Group website](https://geoepi.github.io/)**.
 
 ---
-
-**Website = who we are · Hub = what we are working on · Lab Book = how we work**
