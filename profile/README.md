@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="geoepi_header.png" alt="GeoEpi header" width="100%">
+  <img src="geoepi_header.png" alt="GeoEpi header" width="90%">
 </p>
 
 <br>
