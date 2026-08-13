@@ -19,7 +19,7 @@ transboundary, emerging, and zoonotic animal diseases.
 
 | Resource | Purpose |
 |---|---|
-| **[GeoEpi Research Group](https://geoepi.github.io/)** | **Who we are** — research areas, people, projects, publications, and scientific products |
+| **[GeoEpi Group](https://geoepi.github.io/)** | **Who we are** — research areas, people, projects, publications, and scientific products |
 | **[GeoEpi Hub](https://github.com/geoepi/geoepi-hub)** | **What we are working on** — projects, analytical subprojects, milestones, data stewardship, and portfolio status |
 | **[GeoEpi Lab Book](https://geoepi.github.io/geoepi-notebook/)** | **How we work** — practical guidance for organizing, documenting, computing, collaborating, and conducting reproducible research |
 
